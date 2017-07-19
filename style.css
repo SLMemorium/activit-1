@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    background-color: lightcoral;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    margin-top: 100px;
+}
