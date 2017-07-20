@@ -1,1 +1,0 @@
-Ceci est un fichier txt qui présentera le projet.
